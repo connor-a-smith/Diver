@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: a76a02c15c447ed47a2ca99862ea854c
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: sEscapeBarnicalLarge
+    100002: sEscapeBarnicalMany
+    100004: sEscapeBarnicalThree
+    100006: sEscapeCrab
+    100008: sEscapeCrab_Ctrl
+    100010: sEscapeCrabClaws_Jnt
+    100012: sEscapeCrabLeftHip1Leg1_Jnt
+    100014: sEscapeCrabLeftHip2Leg1_Jnt
+    100016: sEscapeCrabLeftHip3Leg1_Jnt
+    100018: sEscapeCrabLeg2_Jnt
+    100020: sEscapeCrabLeg2_Jnt 1
+    100022: sEscapeCrabLeg2_Jnt 2
+    100024: sEscapeCrabLeg2_Jnt1
+    100026: sEscapeCrabLeg2_Jnt2
+    100028: sEscapeCrabLeg2_Jnt3
+    100030: sEscapeCrabLeg3_Jnt
+    100032: sEscapeCrabLeg3_Jnt 1
+    100034: sEscapeCrabLeg3_Jnt 2
+    100036: sEscapeCrabLeg3_Jnt1
+    100038: sEscapeCrabLeg3_Jnt2
+    100040: sEscapeCrabLeg3_Jnt3
+    100042: sEscapeCrabLeg4_Jnt
+    100044: sEscapeCrabLeg4_Jnt 1
+    100046: sEscapeCrabLeg4_Jnt 2
+    100048: sEscapeCrabLeg4_Jnt1
+    100050: sEscapeCrabLeg4_Jnt2
+    100052: sEscapeCrabLeg4_Jnt3
+    100054: sEscapeCrabRightHi32Leg1_Jnt
+    100056: sEscapeCrabRightHip1Leg1_Jnt
+    100058: sEscapeCrabRightHip2Leg1_Jnt
+    100060: sEscapeCrabRoot_Jnt
+    100062: //RootNode
+    100064: sEscapeCrabThingys_Jnt
+    100066: sEscapeShellBasic
+    100068: sEscapeShellBottle
+    100070: sEscapeShellKnobbly
+    100072: sEscapeShellTall
+    100074: PA_BarnicalLarge
+    100076: PA_BarnicalMany
+    100078: PA_BarnicalThree
+    100080: PA_Crab
+    100082: PA_Crab_Ctrl
+    100084: PA_CrabClaws_Jnt
+    100086: PA_CrabLeftHip1Leg1_Jnt
+    100088: PA_CrabLeftHip2Leg1_Jnt
+    100090: PA_CrabLeftHip3Leg1_Jnt
+    100092: PA_CrabLeg2_Jnt
+    100094: PA_CrabLeg2_Jnt 1
+    100096: PA_CrabLeg2_Jnt 2
+    100098: PA_CrabLeg2_Jnt1
+    100100: PA_CrabLeg2_Jnt2
+    100102: PA_CrabLeg2_Jnt3
+    100104: PA_CrabLeg3_Jnt
+    100106: PA_CrabLeg3_Jnt 1
+    100108: PA_CrabLeg3_Jnt 2
+    100110: PA_CrabLeg3_Jnt1
+    100112: PA_CrabLeg3_Jnt2
+    100114: PA_CrabLeg3_Jnt3
+    100116: PA_CrabLeg4_Jnt
+    100118: PA_CrabLeg4_Jnt 1
+    100120: PA_CrabLeg4_Jnt 2
+    100122: PA_CrabLeg4_Jnt1
+    100124: PA_CrabLeg4_Jnt2
+    100126: PA_CrabLeg4_Jnt3
+    100128: PA_CrabRightHi32Leg1_Jnt
+    100130: PA_CrabRightHip1Leg1_Jnt
+    100132: PA_CrabRightHip2Leg1_Jnt
+    100134: PA_CrabRoot_Jnt
+    100136: PA_CrabThingys_Jnt
+    100138: PA_ShellBasic
+    100140: PA_ShellBottle
+    100142: PA_ShellKnobbly
+    100144: PA_ShellTall
+    400000: sEscapeBarnicalLarge
+    400002: sEscapeBarnicalMany
+    400004: sEscapeBarnicalThree
+    400006: sEscapeCrab
+    400008: sEscapeCrab_Ctrl
+    400010: sEscapeCrabClaws_Jnt
+    400012: sEscapeCrabLeftHip1Leg1_Jnt
+    400014: sEscapeCrabLeftHip2Leg1_Jnt
+    400016: sEscapeCrabLeftHip3Leg1_Jnt
+    400018: sEscapeCrabLeg2_Jnt
+    400020: sEscapeCrabLeg2_Jnt 1
+    400022: sEscapeCrabLeg2_Jnt 2
+    400024: sEscapeCrabLeg2_Jnt1
+    400026: sEscapeCrabLeg2_Jnt2
+    400028: sEscapeCrabLeg2_Jnt3
+    400030: sEscapeCrabLeg3_Jnt
+    400032: sEscapeCrabLeg3_Jnt 1
+    400034: sEscapeCrabLeg3_Jnt 2
+    400036: sEscapeCrabLeg3_Jnt1
+    400038: sEscapeCrabLeg3_Jnt2
+    400040: sEscapeCrabLeg3_Jnt3
+    400042: sEscapeCrabLeg4_Jnt
+    400044: sEscapeCrabLeg4_Jnt 1
+    400046: sEscapeCrabLeg4_Jnt 2
+    400048: sEscapeCrabLeg4_Jnt1
+    400050: sEscapeCrabLeg4_Jnt2
+    400052: sEscapeCrabLeg4_Jnt3
+    400054: sEscapeCrabRightHi32Leg1_Jnt
+    400056: sEscapeCrabRightHip1Leg1_Jnt
+    400058: sEscapeCrabRightHip2Leg1_Jnt
+    400060: sEscapeCrabRoot_Jnt
+    400062: //RootNode
+    400064: sEscapeCrabThingys_Jnt
+    400066: sEscapeShellBasic
+    400068: sEscapeShellBottle
+    400070: sEscapeShellKnobbly
+    400072: sEscapeShellTall
+    400074: PA_BarnicalLarge
+    400076: PA_BarnicalMany
+    400078: PA_BarnicalThree
+    400080: PA_Crab
+    400082: PA_Crab_Ctrl
+    400084: PA_CrabClaws_Jnt
+    400086: PA_CrabLeftHip1Leg1_Jnt
+    400088: PA_CrabLeftHip2Leg1_Jnt
+    400090: PA_CrabLeftHip3Leg1_Jnt
+    400092: PA_CrabLeg2_Jnt
+    400094: PA_CrabLeg2_Jnt 1
+    400096: PA_CrabLeg2_Jnt 2
+    400098: PA_CrabLeg2_Jnt1
+    400100: PA_CrabLeg2_Jnt2
+    400102: PA_CrabLeg2_Jnt3
+    400104: PA_CrabLeg3_Jnt
+    400106: PA_CrabLeg3_Jnt 1
+    400108: PA_CrabLeg3_Jnt 2
+    400110: PA_CrabLeg3_Jnt1
+    400112: PA_CrabLeg3_Jnt2
+    400114: PA_CrabLeg3_Jnt3
+    400116: PA_CrabLeg4_Jnt
+    400118: PA_CrabLeg4_Jnt 1
+    400120: PA_CrabLeg4_Jnt 2
+    400122: PA_CrabLeg4_Jnt1
+    400124: PA_CrabLeg4_Jnt2
+    400126: PA_CrabLeg4_Jnt3
+    400128: PA_CrabRightHi32Leg1_Jnt
+    400130: PA_CrabRightHip1Leg1_Jnt
+    400132: PA_CrabRightHip2Leg1_Jnt
+    400134: PA_CrabRoot_Jnt
+    400136: PA_CrabThingys_Jnt
+    400138: PA_ShellBasic
+    400140: PA_ShellBottle
+    400142: PA_ShellKnobbly
+    400144: PA_ShellTall
+    2300000: sEscapeBarnicalLarge
+    2300002: sEscapeBarnicalMany
+    2300004: sEscapeBarnicalThree
+    2300006: sEscapeShellBasic
+    2300008: sEscapeShellBottle
+    2300010: sEscapeShellKnobbly
+    2300012: sEscapeShellTall
+    2300014: PA_BarnicalLarge
+    2300016: PA_BarnicalMany
+    2300018: PA_BarnicalThree
+    2300020: PA_ShellBasic
+    2300022: PA_ShellBottle
+    2300024: PA_ShellKnobbly
+    2300026: PA_ShellTall
+    3300000: sEscapeBarnicalLarge
+    3300002: sEscapeBarnicalMany
+    3300004: sEscapeBarnicalThree
+    3300006: sEscapeShellBasic
+    3300008: sEscapeShellBottle
+    3300010: sEscapeShellKnobbly
+    3300012: sEscapeShellTall
+    3300014: PA_BarnicalLarge
+    3300016: PA_BarnicalMany
+    3300018: PA_BarnicalThree
+    3300020: PA_ShellBasic
+    3300022: PA_ShellBottle
+    3300024: PA_ShellKnobbly
+    3300026: PA_ShellTall
+    4300000: sEscapeShellBottle
+    4300002: sEscapeShellKnobbly
+    4300004: sEscapeShellBasic
+    4300006: sEscapeShellTall
+    4300008: sEscapeBarnicalLarge
+    4300010: sEscapeBarnicalMany
+    4300012: sEscapeCrab
+    4300014: sEscapeBarnicalThree
+    4300016: PA_ShellBottle
+    4300018: PA_ShellKnobbly
+    4300020: PA_ShellBasic
+    4300022: PA_ShellTall
+    4300024: PA_BarnicalLarge
+    4300026: PA_BarnicalMany
+    4300028: PA_Crab
+    4300030: PA_BarnicalThree
+    7400000: sEscapeCrabIdle
+    7400002: sEscapeCrabScuttle
+    9500000: //RootNode
+    13700000: sEscapeCrab
+    13700002: PA_Crab
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: sEscapeCrabIdle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: sEscapeCrabScuttle
+      takeName: Take 001
+      firstFrame: 100
+      lastFrame: 124
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

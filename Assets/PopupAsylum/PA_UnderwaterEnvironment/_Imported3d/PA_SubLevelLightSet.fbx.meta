@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: 75073ef519ba27740a72ac67ceb5a6ab
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: sEscaleSubLevelWallLight
+    100004: sEscapeSubLevelHangingLight
+    100006: sEscapeSubLevelLocker
+    100008: sEscapeSubLevelLight
+    100010: PA_SubLevelHangingLight
+    100012: PA_SubLevelLight
+    100014: PA_SubLevelLocker
+    100016: PA_SubLevelWallLight
+    400000: //RootNode
+    400002: sEscaleSubLevelWallLight
+    400004: sEscapeSubLevelHangingLight
+    400006: sEscapeSubLevelLocker
+    400008: sEscapeSubLevelLight
+    400010: PA_SubLevelHangingLight
+    400012: PA_SubLevelLight
+    400014: PA_SubLevelLocker
+    400016: PA_SubLevelWallLight
+    2300000: sEscaleSubLevelWallLight
+    2300002: sEscapeSubLevelHangingLight
+    2300004: sEscapeSubLevelLocker
+    2300006: sEscapeSubLevelLight
+    2300008: PA_SubLevelHangingLight
+    2300010: PA_SubLevelLight
+    2300012: PA_SubLevelLocker
+    2300014: PA_SubLevelWallLight
+    3300000: sEscaleSubLevelWallLight
+    3300002: sEscapeSubLevelHangingLight
+    3300004: sEscapeSubLevelLocker
+    3300006: sEscapeSubLevelLight
+    3300008: PA_SubLevelHangingLight
+    3300010: PA_SubLevelLight
+    3300012: PA_SubLevelLocker
+    3300014: PA_SubLevelWallLight
+    4300000: sEscapeSubLevelLight
+    4300002: sEscapeSubLevelLocker
+    4300004: sEscapeSubLevelHangingLight
+    4300006: sEscaleSubLevelWallLight
+    4300008: PA_SubLevelLight
+    4300010: PA_SubLevelLocker
+    4300012: PA_SubLevelHangingLight
+    4300014: PA_SubLevelWallLight
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

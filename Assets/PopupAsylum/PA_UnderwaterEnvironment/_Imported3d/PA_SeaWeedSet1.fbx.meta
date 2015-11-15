@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 2a2206ce5d3c5414ca833fd7845a9ca0
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: sEscapeKelpTall
+    100002: //RootNode
+    100004: sEscapeKelpSmallest
+    100006: sEscapeKelpSmall
+    100008: sEscapeKelpMedium
+    100010: sEscapeKelpTallest
+    100012: sEscapeSeaWeedYellow
+    100014: sEscapeSeaWeedThin
+    100016: sEscapeSeaWeedLeaf
+    100018: sEscapeSeaWeedBrown
+    100020: sEscapeSeaWeedWide
+    100022: sEscapeSeaWeedSpiney
+    100024: PA_KelpMedium
+    100026: PA_KelpSmall
+    100028: PA_KelpSmallest
+    100030: PA_KelpTall
+    100032: PA_KelpTallest
+    100034: PA_SeaWeedBrown
+    100036: PA_SeaWeedLeaf
+    100038: PA_SeaWeedSpiney
+    100040: PA_SeaWeedThin
+    100042: PA_SeaWeedWide
+    100044: PA_SeaWeedYellow
+    400000: sEscapeKelpTall
+    400002: //RootNode
+    400004: sEscapeKelpSmallest
+    400006: sEscapeKelpSmall
+    400008: sEscapeKelpMedium
+    400010: sEscapeKelpTallest
+    400012: sEscapeSeaWeedYellow
+    400014: sEscapeSeaWeedThin
+    400016: sEscapeSeaWeedLeaf
+    400018: sEscapeSeaWeedBrown
+    400020: sEscapeSeaWeedWide
+    400022: sEscapeSeaWeedSpiney
+    400024: PA_KelpMedium
+    400026: PA_KelpSmall
+    400028: PA_KelpSmallest
+    400030: PA_KelpTall
+    400032: PA_KelpTallest
+    400034: PA_SeaWeedBrown
+    400036: PA_SeaWeedLeaf
+    400038: PA_SeaWeedSpiney
+    400040: PA_SeaWeedThin
+    400042: PA_SeaWeedWide
+    400044: PA_SeaWeedYellow
+    2300000: sEscapeKelpTall
+    2300002: sEscapeKelpSmallest
+    2300004: sEscapeKelpSmall
+    2300006: sEscapeKelpMedium
+    2300008: sEscapeKelpTallest
+    2300010: sEscapeSeaWeedYellow
+    2300012: sEscapeSeaWeedThin
+    2300014: sEscapeSeaWeedLeaf
+    2300016: sEscapeSeaWeedBrown
+    2300018: sEscapeSeaWeedWide
+    2300020: sEscapeSeaWeedSpiney
+    2300022: PA_KelpMedium
+    2300024: PA_KelpSmall
+    2300026: PA_KelpSmallest
+    2300028: PA_KelpTall
+    2300030: PA_KelpTallest
+    2300032: PA_SeaWeedBrown
+    2300034: PA_SeaWeedLeaf
+    2300036: PA_SeaWeedSpiney
+    2300038: PA_SeaWeedThin
+    2300040: PA_SeaWeedWide
+    2300042: PA_SeaWeedYellow
+    3300000: sEscapeKelpTall
+    3300002: sEscapeKelpSmallest
+    3300004: sEscapeKelpSmall
+    3300006: sEscapeKelpMedium
+    3300008: sEscapeKelpTallest
+    3300010: sEscapeSeaWeedYellow
+    3300012: sEscapeSeaWeedThin
+    3300014: sEscapeSeaWeedLeaf
+    3300016: sEscapeSeaWeedBrown
+    3300018: sEscapeSeaWeedWide
+    3300020: sEscapeSeaWeedSpiney
+    3300022: PA_KelpMedium
+    3300024: PA_KelpSmall
+    3300026: PA_KelpSmallest
+    3300028: PA_KelpTall
+    3300030: PA_KelpTallest
+    3300032: PA_SeaWeedBrown
+    3300034: PA_SeaWeedLeaf
+    3300036: PA_SeaWeedSpiney
+    3300038: PA_SeaWeedThin
+    3300040: PA_SeaWeedWide
+    3300042: PA_SeaWeedYellow
+    4300000: sEscapeSeaWeedSpiney
+    4300002: sEscapeSeaWeedWide
+    4300004: sEscapeSeaWeedBrown
+    4300006: sEscapeSeaWeedLeaf
+    4300008: sEscapeSeaWeedThin
+    4300010: sEscapeSeaWeedYellow
+    4300012: sEscapeKelpTallest
+    4300014: sEscapeKelpMedium
+    4300016: sEscapeKelpSmall
+    4300018: sEscapeKelpTall
+    4300020: sEscapeKelpSmallest
+    4300022: PA_SeaWeedSpiney
+    4300024: PA_SeaWeedWide
+    4300026: PA_SeaWeedBrown
+    4300028: PA_SeaWeedLeaf
+    4300030: PA_SeaWeedThin
+    4300032: PA_SeaWeedYellow
+    4300034: PA_KelpTallest
+    4300036: PA_KelpMedium
+    4300038: PA_KelpSmall
+    4300040: PA_KelpTall
+    4300042: PA_KelpSmallest
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

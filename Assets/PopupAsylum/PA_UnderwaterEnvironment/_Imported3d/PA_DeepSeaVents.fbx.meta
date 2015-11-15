@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 14ed4470db423574284168574e1dc5d7
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: sEscapeDeepSeaVentSmallSpireMesh
+    100004: sEscapeDeepSeaVentSmallMesh
+    100006: sEscapeDeepSeaVentMediumSpireMesh
+    100008: sEscapeDeepSeaVentMediumMesh
+    100010: sEscapeDeepSeaVentLargeSpireMesh
+    100012: sEscapeDeepSeaVentLargeMesh
+    100014: PA_DeepSeaVentLargeMesh
+    100016: PA_DeepSeaVentLargeSpireMesh
+    100018: PA_DeepSeaVentMediumMesh
+    100020: PA_DeepSeaVentMediumSpireMesh
+    100022: PA_DeepSeaVentSmallMesh
+    100024: PA_DeepSeaVentSmallSpireMesh
+    400000: //RootNode
+    400002: sEscapeDeepSeaVentSmallSpireMesh
+    400004: sEscapeDeepSeaVentSmallMesh
+    400006: sEscapeDeepSeaVentMediumSpireMesh
+    400008: sEscapeDeepSeaVentMediumMesh
+    400010: sEscapeDeepSeaVentLargeSpireMesh
+    400012: sEscapeDeepSeaVentLargeMesh
+    400014: PA_DeepSeaVentLargeMesh
+    400016: PA_DeepSeaVentLargeSpireMesh
+    400018: PA_DeepSeaVentMediumMesh
+    400020: PA_DeepSeaVentMediumSpireMesh
+    400022: PA_DeepSeaVentSmallMesh
+    400024: PA_DeepSeaVentSmallSpireMesh
+    2300000: sEscapeDeepSeaVentSmallSpireMesh
+    2300002: sEscapeDeepSeaVentSmallMesh
+    2300004: sEscapeDeepSeaVentMediumSpireMesh
+    2300006: sEscapeDeepSeaVentMediumMesh
+    2300008: sEscapeDeepSeaVentLargeSpireMesh
+    2300010: sEscapeDeepSeaVentLargeMesh
+    2300012: PA_DeepSeaVentLargeMesh
+    2300014: PA_DeepSeaVentLargeSpireMesh
+    2300016: PA_DeepSeaVentMediumMesh
+    2300018: PA_DeepSeaVentMediumSpireMesh
+    2300020: PA_DeepSeaVentSmallMesh
+    2300022: PA_DeepSeaVentSmallSpireMesh
+    3300000: sEscapeDeepSeaVentSmallSpireMesh
+    3300002: sEscapeDeepSeaVentSmallMesh
+    3300004: sEscapeDeepSeaVentMediumSpireMesh
+    3300006: sEscapeDeepSeaVentMediumMesh
+    3300008: sEscapeDeepSeaVentLargeSpireMesh
+    3300010: sEscapeDeepSeaVentLargeMesh
+    3300012: PA_DeepSeaVentLargeMesh
+    3300014: PA_DeepSeaVentLargeSpireMesh
+    3300016: PA_DeepSeaVentMediumMesh
+    3300018: PA_DeepSeaVentMediumSpireMesh
+    3300020: PA_DeepSeaVentSmallMesh
+    3300022: PA_DeepSeaVentSmallSpireMesh
+    4300000: sEscapeDeepSeaVentLargeMesh
+    4300002: sEscapeDeepSeaVentLargeSpireMesh
+    4300004: sEscapeDeepSeaVentMediumMesh
+    4300006: sEscapeDeepSeaVentMediumSpireMesh
+    4300008: sEscapeDeepSeaVentSmallMesh
+    4300010: sEscapeDeepSeaVentSmallSpireMesh
+    4300012: PA_DeepSeaVentLargeMesh
+    4300014: PA_DeepSeaVentLargeSpireMesh
+    4300016: PA_DeepSeaVentMediumMesh
+    4300018: PA_DeepSeaVentMediumSpireMesh
+    4300020: PA_DeepSeaVentSmallMesh
+    4300022: PA_DeepSeaVentSmallSpireMesh
+    7400000: Take 001
+    7400002: PA_VentKnock
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: PA_VentKnock
+      takeName: 
+      firstFrame: 1
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
