@@ -6,7 +6,7 @@ public class Swim : MonoBehaviour {
     public float forwardMag;
     
     private const float deltaThresh = 0.0001f;
-    private const float speed = 0.5f;
+    private const float speed = 30f;
     
     private Vector3 forwardPosition = new Vector3(0,0,0);
     private Vector3 startingPosition;

@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: e6242b50d764a4ec992d64775f40f580
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: sEscapePirateShipBarrel
+    100002: sEscapePirateShipCannon
+    100004: sEscapePirateShipCenter
+    100006: sEscapePirateShipFront
+    100008: sEscapePirateShipLargeSail
+    100010: sEscapePirateShipLifeBoat
+    100012: sEscapePirateShipMast
+    100014: sEscapePirateShipPrison
+    100016: sEscapePirateShipRear
+    100018: //RootNode
+    100020: sEscapePirateShipSmallSail
+    100022: PA_PirateShipBarrel
+    100024: PA_PirateShipCannon
+    100026: PA_PirateShipCenter
+    100028: PA_PirateShipFront
+    100030: PA_PirateShipLargeSail
+    100032: PA_PirateShipLifeBoat
+    100034: PA_PirateShipMast
+    100036: PA_PirateShipPrison
+    100038: PA_PirateShipRear
+    100040: PA_PirateShipSmallSail
+    400000: sEscapePirateShipBarrel
+    400002: sEscapePirateShipCannon
+    400004: sEscapePirateShipCenter
+    400006: sEscapePirateShipFront
+    400008: sEscapePirateShipLargeSail
+    400010: sEscapePirateShipLifeBoat
+    400012: sEscapePirateShipMast
+    400014: sEscapePirateShipPrison
+    400016: sEscapePirateShipRear
+    400018: //RootNode
+    400020: sEscapePirateShipSmallSail
+    400022: PA_PirateShipBarrel
+    400024: PA_PirateShipCannon
+    400026: PA_PirateShipCenter
+    400028: PA_PirateShipFront
+    400030: PA_PirateShipLargeSail
+    400032: PA_PirateShipLifeBoat
+    400034: PA_PirateShipMast
+    400036: PA_PirateShipPrison
+    400038: PA_PirateShipRear
+    400040: PA_PirateShipSmallSail
+    2300000: sEscapePirateShipBarrel
+    2300002: sEscapePirateShipCannon
+    2300004: sEscapePirateShipCenter
+    2300006: sEscapePirateShipFront
+    2300008: sEscapePirateShipLargeSail
+    2300010: sEscapePirateShipLifeBoat
+    2300012: sEscapePirateShipMast
+    2300014: sEscapePirateShipPrison
+    2300016: sEscapePirateShipRear
+    2300018: sEscapePirateShipSmallSail
+    2300020: PA_PirateShipBarrel
+    2300022: PA_PirateShipCannon
+    2300024: PA_PirateShipCenter
+    2300026: PA_PirateShipFront
+    2300028: PA_PirateShipLargeSail
+    2300030: PA_PirateShipLifeBoat
+    2300032: PA_PirateShipMast
+    2300034: PA_PirateShipPrison
+    2300036: PA_PirateShipRear
+    2300038: PA_PirateShipSmallSail
+    3300000: sEscapePirateShipBarrel
+    3300002: sEscapePirateShipCannon
+    3300004: sEscapePirateShipCenter
+    3300006: sEscapePirateShipFront
+    3300008: sEscapePirateShipLargeSail
+    3300010: sEscapePirateShipLifeBoat
+    3300012: sEscapePirateShipMast
+    3300014: sEscapePirateShipPrison
+    3300016: sEscapePirateShipRear
+    3300018: sEscapePirateShipSmallSail
+    3300020: PA_PirateShipBarrel
+    3300022: PA_PirateShipCannon
+    3300024: PA_PirateShipCenter
+    3300026: PA_PirateShipFront
+    3300028: PA_PirateShipLargeSail
+    3300030: PA_PirateShipLifeBoat
+    3300032: PA_PirateShipMast
+    3300034: PA_PirateShipPrison
+    3300036: PA_PirateShipRear
+    3300038: PA_PirateShipSmallSail
+    4300000: sEscapePirateShipPrison
+    4300002: sEscapePirateShipSmallSail
+    4300004: sEscapePirateShipCenter
+    4300006: sEscapePirateShipCannon
+    4300008: sEscapePirateShipLifeBoat
+    4300010: sEscapePirateShipBarrel
+    4300012: sEscapePirateShipFront
+    4300014: sEscapePirateShipMast
+    4300016: sEscapePirateShipLargeSail
+    4300018: sEscapePirateShipRear
+    4300020: PA_PirateShipPrison
+    4300022: PA_PirateShipSmallSail
+    4300024: PA_PirateShipCenter
+    4300026: PA_PirateShipCannon
+    4300028: PA_PirateShipLifeBoat
+    4300030: PA_PirateShipBarrel
+    4300032: PA_PirateShipFront
+    4300034: PA_PirateShipMast
+    4300036: PA_PirateShipLargeSail
+    4300038: PA_PirateShipRear
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 66d827f56c4ae4c76b8a63b89a5d6491
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: sEscapeSubCrane
+    100002: //RootNode
+    100004: sEscapeSubMissle
+    100006: sEscapeSubMissleRack
+    100008: sEscapeSubLauncher
+    100010: sEscapeSubCrossBeam
+    100012: sEscapeSubOilBarrel
+    100014: sEscapeSubEngine
+    100016: PA_SubCrane
+    100018: PA_SubCrossBeam
+    100020: PA_SubEngine
+    100022: PA_SubLauncher
+    100024: PA_SubMissle
+    100026: PA_SubMissleRack
+    100028: PA_SubOilBarrel
+    400000: sEscapeSubCrane
+    400002: //RootNode
+    400004: sEscapeSubMissle
+    400006: sEscapeSubMissleRack
+    400008: sEscapeSubLauncher
+    400010: sEscapeSubCrossBeam
+    400012: sEscapeSubOilBarrel
+    400014: sEscapeSubEngine
+    400016: PA_SubCrane
+    400018: PA_SubCrossBeam
+    400020: PA_SubEngine
+    400022: PA_SubLauncher
+    400024: PA_SubMissle
+    400026: PA_SubMissleRack
+    400028: PA_SubOilBarrel
+    2300000: sEscapeSubCrane
+    2300002: sEscapeSubMissle
+    2300004: sEscapeSubMissleRack
+    2300006: sEscapeSubLauncher
+    2300008: sEscapeSubCrossBeam
+    2300010: sEscapeSubOilBarrel
+    2300012: sEscapeSubEngine
+    2300014: PA_SubCrane
+    2300016: PA_SubCrossBeam
+    2300018: PA_SubEngine
+    2300020: PA_SubLauncher
+    2300022: PA_SubMissle
+    2300024: PA_SubMissleRack
+    2300026: PA_SubOilBarrel
+    3300000: sEscapeSubCrane
+    3300002: sEscapeSubMissle
+    3300004: sEscapeSubMissleRack
+    3300006: sEscapeSubLauncher
+    3300008: sEscapeSubCrossBeam
+    3300010: sEscapeSubOilBarrel
+    3300012: sEscapeSubEngine
+    3300014: PA_SubCrane
+    3300016: PA_SubCrossBeam
+    3300018: PA_SubEngine
+    3300020: PA_SubLauncher
+    3300022: PA_SubMissle
+    3300024: PA_SubMissleRack
+    3300026: PA_SubOilBarrel
+    4300000: sEscapeSubCrossBeam
+    4300002: sEscapeSubLauncher
+    4300004: sEscapeSubMissleRack
+    4300006: sEscapeSubMissle
+    4300008: sEscapeSubCrane
+    4300010: sEscapeSubEngine
+    4300012: sEscapeSubOilBarrel
+    4300014: PA_SubCrossBeam
+    4300016: PA_SubLauncher
+    4300018: PA_SubMissleRack
+    4300020: PA_SubMissle
+    4300022: PA_SubCrane
+    4300024: PA_SubEngine
+    4300026: PA_SubOilBarrel
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
